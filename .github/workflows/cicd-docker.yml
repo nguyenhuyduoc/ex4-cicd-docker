@@ -1,8 +1,8 @@
 name: CI/CD and Docker
 on:
   push:
-  branches:
-    - main
+    branches:
+      - main
 
 jobs:
   build-and-push:
